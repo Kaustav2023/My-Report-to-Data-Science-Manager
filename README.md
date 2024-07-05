@@ -4,7 +4,6 @@ As a data scientist when your manager gives you a machine learning problem about
 All the models and metrics I used here are :
 * MODELS:
 - Dummy Classifier
-- Linear Regression
 - Logistic Regression
 - Naive Bayes Classifier
 - Decision Tree Classifier
